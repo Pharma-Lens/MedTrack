@@ -39,3 +39,101 @@ The case doesn't rest on one big institutional win. It rests on three independen
 
 
 *Sources: WHO substandard/falsified medicines fact sheet and Member State Mechanism report; PLOS One Ghana/Kenya/Uganda facility survey (2014); Journal of Pharmaceutical Policy and Practice, Uganda supply chain assessment; Kenya MoH 2019 service delivery survey (via Nyeri County study); PMC field study on AMFm medicine diversion; Foreign Policy reporting on Togo Global Fund antimalarial theft; GiACE Malawi medication theft field study.*
+
+
+
+# MedTrack — Business Case
+
+**Version:** 0.1 | **Date:** June 2026 | **PharmaLens, Uganda**
+
+---
+
+## The Opportunity
+
+Sub-Saharan Africa's pharmaceutical supply chain loses an estimated **10–30% of medicine value** before reaching patients, through a combination of quality failures, stockouts, and diversion. For Uganda alone, the Ministry of Health manages over UGX 300 billion in annual medicine procurement — meaning even a 10% improvement in supply chain visibility is worth UGX 30B+/year.
+
+The problem is not procurement volume. It is **visibility**. National-level stock looks adequate on paper while individual clinics run empty. The gap between what was received at district level and what reached patients is rarely measured in real time.
+
+---
+
+## Market Segments
+
+### Segment 1: Government Health Systems
+**Buyers:** Ministry of Health, National Medical Stores (NMS Uganda), district health offices
+**Pain:** No real-time visibility into facility-level stock; diversion investigations are post-hoc and manual
+**Budget pathway:** MoH IT procurement, development partner funding (USAID, Global Fund, GAVI)
+**Entry:** Pilot with 2–5 facilities, demonstrate diversion detection, expand via district contract
+
+### Segment 2: NGO & Donor-Funded Programmes
+**Buyers:** PEPFAR-funded clinics, MSF, IRC, Partners in Health
+**Pain:** Donor accountability requirements; need to prove medicines reached intended recipients
+**Budget pathway:** Overhead / monitoring & evaluation budget (typically 5–15% of programme cost)
+**Entry:** Position as M&E tool; bundle with existing data collection workflow
+
+### Segment 3: Private Pharmacy Chains
+**Buyers:** AAR Healthcare, Mediplan, independent chains (East Africa)
+**Pain:** Inventory shrinkage, counterfeit exposure, expiry waste
+**Budget pathway:** Direct SaaS subscription
+**Entry:** Lower-touch onboarding; focus on quality verification and inventory reconciliation
+
+---
+
+## Revenue Model
+
+| Tier | Target | Pricing |
+|------|--------|---------|
+| **Pilot** | Government / NGO facilities | Free (grant/donor funded) |
+| **Facility SaaS** | Private clinics and pharmacies | $50–150/facility/month |
+| **District License** | Government district health offices | $500–2,000/district/year |
+| **National Platform** | Ministry-level deployment | Custom contract |
+| **API Access** | Procurement systems, EHR vendors | Per-call or volume pricing |
+
+---
+
+## Competitive Landscape
+
+| Tool | Focus | Gap MedTrack fills |
+|------|----|---|
+| DHIS2 | Aggregate reporting | No real-time event-level data; no anomaly detection |
+| mSupply | Inventory management | Strong on stock control; weak on diversion and quality |
+| Trackpad / GS1 | Barcode track-and-trace | Hardware-dependent; not viable for low-resource facilities |
+| Excel/paper | Most common in Uganda | No analytics, no alerts, no reconciliation |
+
+MedTrack's differentiation: **unified intelligence across quality, availability, and diversion from a single lightweight data pipeline**, deployable without hardware investment.
+
+---
+
+## Go-to-Market: 2026
+
+**Q3 2026 — Pilot**
+- 2 facilities in Uganda (Mbarara / Kampala)
+- Free deployment, PharmaLens collects data and provides support
+- Goal: 500+ events logged, 1 confirmed diversion alert, stockout prediction validated
+
+**Q4 2026 — First Revenue**
+- Present pilot results to MoH ICT / NMS Uganda
+- Apply for MoICT Government Systems Prototype funding
+- First paying customer: NGO or private pharmacy chain
+
+**2027 — Scale**
+- 3–5 district-level contracts
+- DHIS2 integration for government alignment
+- East Africa expansion: Kenya (KEMSA), Tanzania (MSD)
+
+---
+
+## Why Now
+
+1. Uganda's Ministry of ICT is actively funding health-tech prototypes (MoICT Showcase 2026)
+2. Post-COVID supply chain failures increased political will for visibility tools
+3. Global Fund and PEPFAR both introduced stronger accountability requirements post-2023
+4. Mobile penetration and low-cost Android devices make web-based tools viable at facility level without dedicated hardware
+
+---
+
+## Ask
+
+**Pilot phase:** In-kind technical support + introductions to 2 pilot facilities
+**Seed funding:** $15,000–$30,000 to cover 6 months of development and pilot operations
+
+Contact: PharmaLens, Uganda
