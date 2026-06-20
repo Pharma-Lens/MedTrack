@@ -1,6 +1,6 @@
 # MedTrack
 
-AI-powered pharmaceutical intelligence for medicine quality, supply availability, and diversion detection.
+A-powered pharmaceutical intelligence for medicine quality, supply availability, and diversion detection.
 
 ## The problem
 
@@ -72,4 +72,4 @@ uvicorn app.main:app --reload
 
 ## License
 
-MedTrack is proprietary, commercially licensed software — see [LICENSE](./LICENSE). For pilot, partnership, or commercial licensing inquiries, contact PharmaLens.
+MedTrack is proprietary, commercially licensed software — see [LICENSE](./LICENSE). For pilot, partnership, or commercial licensing inquiries, contact PharmaLens, Uganda
