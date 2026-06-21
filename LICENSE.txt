@@ -2,11 +2,6 @@ MEDTRACK PROPRIETARY SOFTWARE LICENSE
 
 Copyright (c) 2026 Pharma-Lens. All Rights Reserved.
 
-NOTE: This is a template commercial license, not legal advice. Have it reviewed
-by a lawyer licensed in your jurisdiction before relying on it in practice —
-especially before entering agreements with government bodies or donor
-organizations. Fill in the bracketed placeholders before use.
-
 1. DEFINITIONS
 
 "Software" means the MedTrack source code, object code, documentation, and
